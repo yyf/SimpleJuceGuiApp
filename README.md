@@ -1,2 +1,2 @@
 # SimpleJuceGuiApp
-A simple JUCE GUI app with one button and one slider 
+A simple JUCE(http://www.juce.com/) GUI app with one button and one slider 
